@@ -1,0 +1,152 @@
+COCO_val2014_000000130948.jpg
+['<s>', 'a', 'table', 'topped', 'with', 'lots', 'of', 'different', 'types', 'of', 'cakes', '.', '<e>']
+[['<s>', 'a', 'day', 'of', 'the', 'dead', 'offering', 'with', 'fruit', '<e>'], ['<s>', 'candles', ',', 'pumpkins', ',', 'and', 'skull', 'decorations', 'on', 'a', 'table', '.', '<e>'], ['<s>', 'a', 'table', 'topped', 'with', 'halloween', 'decorations', 'and', 'food', '.', '<e>'], ['<s>', 'a', 'table', 'decorated', 'with', 'skulls', 'with', 'apples', ',', 'oranges', ',', 'and', 'pumpkins', '.', '<e>'], ['<s>', 'a', 'display', 'on', 'a', 'table', ',', 'with', 'skulls', ',', 'candles', ',', 'and', 'small', 'pumpkins', '.', '<e>']]
+0.343893121766
+8076.69177842
+COCO_val2014_000000393093.jpg
+['<s>', 'a', 'train', 'on', 'a', 'train', 'track', 'near', 'a', 'building', '<e>']
+[['<s>', 'a', 'silver', 'and', 'green', 'train', 'crossing', 'over', 'the', 'tracks', '<e>'], ['<s>', 'a', 'train', 'passes', 'on', 'a', 'bridge', 'atop', 'a', 'street', '.', '<e>'], ['<s>', 'a', 'large', 'long', 'train', 'on', 'a', 'steel', 'track', '.', '<e>'], ['<s>', 'the', 'train', 'is', 'going', 'over', 'the', 'busy', 'urban', 'bridge', '.', '<e>'], ['<s>', 'a', 'green', 'orange', 'and', 'silver', 'train', 'and', 'some', 'cars', '<e>']]
+6.15846252027e-78
+8076.69177842
+COCO_val2014_000000026183.jpg
+['<s>', 'a', 'tall', 'clock', 'tower', 'with', 'a', 'clock', 'on', 'it', "'s", 'face', '.', '<e>']
+[['<s>', 'an', 'ornate', 'set', 'of', 'towers', 'n', 'an', 'old', 'church', '.', '<e>'], ['<s>', 'the', 'spires', 'of', 'a', 'cathedral', 'rise', 'against', 'a', 'cloudy', 'sky', '<e>'], ['<s>', 'a', 'tower', 'and', 'building', 'are', 'shown', 'behind', 'trees', '.', '<e>'], ['<s>', 'a', 'clock', 'tower', 'next', 'to', 'building', 'and', 'trees', '.', '<e>'], ['<s>', 'a', 'chuck', 'with', 'a', 'very', 'large', 'clock', 'tower', 'next', 'to', 'trees', '.', '<e>']]
+1.02133770822e-154
+8076.69177842
+COCO_val2014_000000524173.jpg
+['<s>', 'a', 'group', 'of', 'young', 'men', 'sitting', 'on', 'top', 'of', 'a', 'surfboard', '.', '<e>']
+[['<s>', 'a', 'person', 'lying', 'on', 'a', 'surfboard', 'as', 'others', 'observe', 'them', '.', '<e>'], ['<s>', 'two', 'girls', 'and', 'two', 'boys', 'and', 'one', 'boy', 'is', 'laying', 'on', 'a', 'surfboard', '<e>'], ['<s>', 'a', 'group', 'of', 'people', 'next', 'to', 'a', 'person', 'on', 'a', 'surfboard', '.', '<e>'], ['<s>', 'a', 'group', 'of', 'people', 'learning', 'how', 'to', 'surf', 'on', 'a', 'beach', '.', '<e>'], ['<s>', 'a', 'person', 'learning', 'how', 'to', 'surf', 'board', 'out', 'side', '<e>']]
+0.3661926363
+8077.05797105
+COCO_val2014_000000262030.jpg
+['<s>', 'a', 'bathroom', 'with', 'a', 'sink', ',', 'toilet', ',', 'and', 'bathtub', '.', '<e>']
+[['<s>', 'this', 'bathroom', 'is', 'big', 'and', 'has', 'a', 'jacuzzi', 'tub', 'made', 'of', 'wood', '<e>'], ['<s>', 'a', 'all', 'wooden', 'bathroom', 'with', 'the', 'windows', 'open', '.', '<e>'], ['<s>', 'a', 'bath', 'tub', 'sitting', 'in', 'a', 'bathroom', 'on', 'top', 'of', 'a', 'hard', 'wood', 'floor', '.', '<e>'], ['<s>', 'bathroom', 'with', 'wood', 'and', 'tub', 'with', 'window', 'and', 'floor', '<e>'], ['<s>', 'this', 'bathroom', 'has', 'a', 'wood', 'floor', ',', 'wood', 'surfaces', ',', 'and', 'a', 'large', 'window', '.', '<e>']]
+1.03926499485e-154
+8077.05797105
+COCO_val2014_000000130966.jpg
+['<s>', 'a', 'couple', 'of', 'cows', 'standing', 'next', 'to', 'each', 'other', '.', '<e>']
+[['<s>', 'a', 'large', 'black', 'steer', 'walking', 'away', 'with', 'a', 'small', 'stuffed', 'teddy', 'bear', 'in', 'a', 'pile', 'of', 'brush', '.', '<e>'], ['<s>', 'a', 'bull', 'walks', 'up', 'to', 'a', 'pile', 'of', 'wood', 'and', 'a', 'teddy', 'bear', '.', '<e>'], ['<s>', 'a', 'large', 'black', 'bull', 'with', 'horns', 'standing', 'in', 'a', 'forest', '.', '<e>'], ['<s>', 'an', 'ox', 'and', 'a', 'teddy', 'on', 'a', 'pile', 'of', 'wood', 'with', 'trees', 'in', 'the', 'background', '<e>'], ['<s>', 'a', 'large', 'bull', 'is', 'standing', 'by', 'some', 'wood', '<e>']]
+7.83194330546e-155
+8077.05797105
+COCO_val2014_000000524186.jpg
+['<s>', 'a', 'large', 'passenger', 'jet', 'flying', 'through', 'a', 'gray', 'sky', '.', '<e>']
+[['<s>', 'a', 'big', 'commercial', 'plane', 'flying', 'in', 'cloudy', 'skies', '.', '<e>'], ['<s>', 'a', 'big', 'airplane', 'flying', 'by', 'on', 'a', 'cloudy', 'day', '<e>'], ['<s>', 'a', 'plane', 'with', 'its', 'landing', 'gear', 'out', 'flying', 'through', 'the', 'air', '.', '<e>'], ['<s>', 'a', 'larger', 'commercial', 'jet', 'is', 'flying', 'in', 'the', 'air', '.', '<e>'], ['<s>', 'a', 'large', 'air', 'plane', 'flying', 'in', 'the', 'sky', '<e>']]
+5.09574424752e-78
+8077.05797105
+COCO_val2014_000000524187.jpg
+['<s>', 'a', 'baseball', 'player', 'swinging', 'a', 'bat', 'at', 'a', 'ball', '<e>']
+[['<s>', 'a', 'baseball', 'player', 'up', 'to', 'bat', 'during', 'a', 'game', '.', '<e>'], ['<s>', 'baseball', 'game', 'with', 'batter', 'at', 'home', 'base', 'waiting', 'for', 'the', 'pitch', '.', '<e>'], ['<s>', 'a', 'batter', ',', 'catcher', 'and', 'umpire', 'during', 'a', 'baseball', 'game', '.', '<e>'], ['<s>', 'a', 'batter', 'is', 'getting', 'ready', 'to', 'swing', 'at', 'a', 'pitch', '.', '<e>'], ['<s>', 'view', 'of', 'baseball', 'players', 'down', 'on', 'the', 'mound', '.', '<e>']]
+0.299822138934
+8077.35779319
+COCO_val2014_000000262048.jpg
+['<s>', 'a', 'woman', 'holding', 'an', 'umbrella', 'in', 'her', 'hand', '.', '<e>']
+[['<s>', 'a', 'woman', 'in', 'a', 'bikini', 'laying', 'under', 'a', 'red', 'umbrella', '.', '<e>'], ['<s>', 'the', 'woman', 'lies', 'next', 'to', 'a', 'man', 'on', 'the', 'beach', 'under', 'an', 'umbrella', '.', '<e>'], ['<s>', 'beach', 'goes', 'lay', 'out', 'underneath', 'a', 'red', 'umbrella', '.', '<e>'], ['<s>', 'two', 'people', 'on', 'the', 'beach', 'laying', 'under', 'a', 'red', 'umbrella', '<e>'], ['<s>', 'a', 'couple', 'of', 'people', 'lay', 'under', 'an', 'umbrella', 'on', 'a', 'beach', '<e>']]
+5.17862905677e-78
+8077.35779319
+COCO_val2014_000000262054.jpg
+['<s>', 'a', 'kitchen', 'with', 'a', 'sink', 'and', 'a', 'microwave', '<e>']
+[['<s>', 'a', 'large', 'kitchen', 'filled', 'with', 'white', 'appliances', 'with', 'lots', 'of', 'counter', 'space', '.', '<e>'], ['<s>', 'dish', 'towels', 'hang', 'from', 'a', 'stove', 'handle', 'in', 'a', 'kitchen', 'with', 'wooden', 'cabinets', '.', '<e>'], ['<s>', 'a', 'kitchen', 'with', 'a', 'stove', ',', 'a', 'microwave', 'above', 'it', 'and', 'a', 'window', '.', '<e>'], ['<s>', 'a', 'clean', 'kitchen', 'is', 'shown', 'with', 'three', 'towels', 'hanging', 'on', 'the', 'cabinet', '.', '<e>'], ['<s>', 'a', 'large', 'kitchen', 'with', 'a', 'built-in', 'stove', ',', 'oven', 'and', 'microwave', '<e>']]
+0.387683190834
+8077.74547638
+COCO_val2014_000000130984.jpg
+['<s>', 'a', 'train', 'is', 'parked', 'on', 'the', 'tracks', 'near', 'a', 'building', '.', '<e>']
+[['<s>', 'three', 'sets', 'of', 'train', 'tracks', 'with', 'trains', 'on', 'each', 'of', 'them', '.', '<e>'], ['<s>', 'three', 'yellow', 'and', 'blue', 'trains', 'next', 'to', 'each', 'other', '<e>'], ['<s>', 'several', 'trains', 'are', 'parked', 'next', 'to', 'each', 'other', 'on', 'some', 'tracks', '.', '<e>'], ['<s>', 'three', 'trains', 'on', 'train', 'tracks', 'with', 'a', 'sky', 'background', '<e>'], ['<s>', 'three', 'train', 'cars', 'sitting', 'on', 'three', 'separate', 'tracks', '<e>']]
+6.57288895239e-155
+8077.74547638
+COCO_val2014_000000524202.jpg
+['<s>', 'a', 'large', 'white', 'and', 'blue', 'airplane', 'flying', 'in', 'the', 'sky', '.', '<e>']
+[['<s>', 'the', 'space', 'shuttle', 'is', 'being', 'transported', 'by', 'a', 'nasa', 'jumbo', 'jet', '.', '<e>'], ['<s>', 'an', 'airplane', 'carrying', 'a', 'space', 'shuttle', 'in', 'air', '.', '<e>'], ['<s>', 'a', 'space', 'shuttle', 'is', 'resting', 'on', 'top', 'of', 'an', 'airplane', '.', '<e>'], ['<s>', 'a', 'nasa', 'jet', 'being', 'transported', 'by', 'a', '747', 'airliner', '.', '<e>'], ['<s>', 'airplane', 'flying', 'in', 'the', 'sky', 'carrying', 'the', 'space', 'shuttle', '.', '<e>']]
+0.370686638179
+8078.11616302
+COCO_val2014_000000480583.jpg
+['<s>', 'a', 'display', 'case', 'filled', 'with', 'lots', 'of', 'different', 'kinds', 'of', 'donuts', '.', '<e>']
+[['<s>', 'many', 'donuts', 'with', 'different', 'flavors', 'are', 'displayed', '.', '<e>'], ['<s>', 'trays', 'and', 'trays', 'of', 'fresh', 'baked', 'donuts', 'including', 'glazed', ',', 'powdered', 'and', 'chocolate', '.', '<e>'], ['<s>', 'a', 'number', 'of', 'doughnuts', 'behind', 'a', 'display', 'glass', '<e>'], ['<s>', 'an', 'assortment', 'of', 'donuts', 'are', 'displayed', 'in', 'a', 'bakery', 'case', '.', '<e>'], ['<s>', 'several', 'trays', 'of', 'doughnuts', 'are', 'on', 'display', 'behind', 'glass', '.', '<e>']]
+1.02133770822e-154
+8078.11616302
+COCO_val2014_000000524216.jpg
+['<s>', 'a', 'car', 'and', 'a', 'truck', 'are', 'parked', 'in', 'a', 'lot', '.', '<e>']
+[['<s>', 'a', 'large', 'white', 'bus', 'driving', 'down', 'a', 'street', 'next', 'to', 'a', 'sign', '.', '<e>'], ['<s>', 'a', 'bus', 'is', 'passing', 'a', 'gas', 'station', 'by', 'the', 'road', '<e>'], ['<s>', 'cars', 'and', 'bus', 'on', 'road', 'near', 'gas', 'station', '.', '<e>'], ['<s>', 'city', 'traffic', 'including', 'a', 'white', 'bus', 'and', 'two', 'cars', '<e>'], ['<s>', 'a', 'bunch', 'of', 'cars', 'that', 'are', 'on', 'a', 'street', '<e>']]
+8.44152793092e-155
+8078.11616302
+COCO_val2014_000000393145.jpg
+['<s>', 'a', 'giraffe', 'standing', 'in', 'the', 'middle', 'of', 'a', 'forest', '.', '<e>']
+[['<s>', 'a', 'bird', 'sitting', 'on', 'the', 'back', 'of', 'a', 'giraffe', 'next', 'to', 'a', 'tree', '.', '<e>'], ['<s>', 'a', 'little', 'bird', 'sitting', 'on', 'the', 'back', 'of', 'a', 'giraffe', '<e>'], ['<s>', 'the', 'rear', 'end', 'of', 'a', 'giraffe', 'with', 'a', 'bird', 'sitting', 'on', 'it', '<e>'], ['<s>', 'a', 'bird', 'is', 'sitting', 'on', 'the', 'behind', 'of', 'a', 'giraffe', '.', '<e>'], ['<s>', 'a', 'bird', 'sitting', 'on', 'the', 'back', 'of', 'a', 'giraffe', '.', '<e>']]
+1.0466855474e-154
+8078.11616302
+COCO_val2014_000000509772.jpg
+['<s>', 'a', 'group', 'of', 'trucks', 'parked', 'in', 'a', 'lot', 'with', 'people', 'standing', 'around', '.', '<e>']
+[['<s>', 'a', 'firetruck', 'driving', 'past', 'an', 'ambulance', 'on', 'the', 'opposite', 'side', 'of', 'the', 'street', '.', '<e>'], ['<s>', 'a', 'fire', 'truck', 'and', 'an', 'ambulance', 'driving', 'down', 'the', 'street', '.', '<e>'], ['<s>', 'emergency', 'vehicles', 'are', 'driving', 'on', 'the', 'rain-soaked', 'road', '.', '<e>'], ['<s>', 'a', 'fire', 'truck', 'that', 'is', 'driving', 'on', 'the', 'road', '.', '<e>'], ['<s>', 'a', 'ambulance', 'and', 'a', 'fire', 'truck', 'on', 'a', 'highway', '.', '<e>']]
+6.82275439834e-155
+8078.11616302
+COCO_val2014_000000131018.jpg
+['<s>', 'a', 'young', 'boy', 'is', 'standing', 'in', 'a', 'kitchen', '.', '<e>']
+[['<s>', 'a', 'toddler', 'reaches', 'into', 'a', 'bowl', 'of', 'grapes', 'in', 'a', 'sink', '.', '<e>'], ['<s>', 'a', 'child', 'washes', 'grapes', 'in', 'a', 'stainless', 'steel', 'sink', '.', '<e>'], ['<s>', 'a', 'small', 'child', 'in', 'a', 'kitchen', 'near', 'a', 'sink', '<e>'], ['<s>', 'a', 'young', 'girl', 'washing', 'a', 'bowl', 'of', 'grapes', 'in', 'a', 'sink', '.', '<e>'], ['<s>', 'a', 'girl', 'is', 'washing', 'grapes', 'in', 'a', 'sink', '.', '<e>']]
+6.70637658081e-78
+8078.11616302
+COCO_val2014_000000131019.jpg
+['<s>', 'a', 'herd', 'of', 'zebra', 'standing', 'on', 'top', 'of', 'a', 'lush', 'green', 'field', '.', '<e>']
+[['<s>', 'two', 'zebras', 'and', 'two', 'monkeys', 'walking', 'on', 'the', 'grass', '.', '<e>'], ['<s>', 'two', 'giraffes', 'and', 'another', 'animal', 'are', 'on', 'green', 'grass', '.', '<e>'], ['<s>', 'a', 'baboon', 'and', 'two', 'zebras', 'grazing', 'on', 'the', 'savannah', '.', '<e>'], ['<s>', 'a', 'baboon', 'and', 'its', 'baby', 'eat', 'by', 'two', 'zebras', 'in', 'the', 'grass', '<e>'], ['<s>', 'monkey', 'standing', 'behind', 'two', 'zebras', 'as', 'they', 'graze', '.', '<e>']]
+7.57965434484e-155
+8078.11616302
+COCO_val2014_000000262092.jpg
+['<s>', 'a', 'zebra', 'standing', 'in', 'a', 'fenced', 'in', 'area', '.', '<e>']
+[['<s>', 'a', 'single', 'zebra', 'that', 'is', 'bent', 'over', 'eating', 'grass', '.', '<e>'], ['<s>', 'a', 'zebra', 'is', 'grazing', 'on', 'the', 'grass', 'in', 'front', 'of', 'a', 'fence', '<e>'], ['<s>', 'zebra', 'eating', 'grass', 'in', 'a', 'field', 'caged', 'in', 'silver', 'fence', '.', '<e>'], ['<s>', 'a', 'zebra', 'is', 'grazing', 'on', 'some', 'grass', '<e>'], ['<s>', 'a', 'very', 'pretty', 'zebra', 'grazing', 'in', 'the', 'grass', '.', '<e>']]
+5.17862905677e-78
+8078.11616302
+COCO_val2014_000000262093.jpg
+['<s>', 'a', 'kitchen', 'with', 'a', 'sink', 'and', 'a', 'stove', 'top', 'oven', '.', '<e>']
+[['<s>', 'a', 'counter', 'filled', 'with', 'lots', 'of', 'clutter', 'in', 'a', 'kitchen', '.', '<e>'], ['<s>', 'a', 'kitchen', 'sink', 'full', 'of', 'clutter', 'is', 'seen', '.', '<e>'], ['<s>', 'a', 'kitchen', 'area', 'near', 'the', 'sink', 'and', 'stove', 'and', 'oven', '<e>'], ['<s>', 'a', 'kitchen', 'sink', 'with', 'a', 'flower', 'pot', ',', 'pans', 'and', 'utensils', '.', '<e>'], ['<s>', 'there', 'is', 'a', 'pot', 'of', 'flowers', 'sitting', 'near', 'the', 'sink', '.', '<e>']]
+5.16770197151e-78
+8078.11616302
+COCO_val2014_000000524245.jpg
+['<s>', 'a', 'dog', 'is', 'sitting', 'in', 'a', 'car', 'looking', 'out', 'the', 'window', '.', '<e>']
+[['<s>', 'a', 'person', 'with', 'a', 'dog', 'in', 'a', 'back', 'pack', '<e>'], ['<s>', 'a', 'dog', 'that', 'is', 'in', 'someones', 'back', 'pack', '.', '<e>'], ['<s>', 'yorkshire', 'terrier', 'puppy', 'rides', 'in', 'his', 'owner', "'s", 'backpack', '.', '<e>'], ['<s>', 'a', 'dog', 'that', 'is', 'inside', 'of', 'a', 'backpack', '.', '<e>'], ['<s>', 'a', 'small', 'dog', 'being', 'carried', 'in', 'a', 'backpack', '.', '<e>']]
+4.24923200522e-78
+8078.11616302
+COCO_val2014_000000524247.jpg
+['<s>', 'a', 'herd', 'of', 'elephants', 'standing', 'next', 'to', 'each', 'other', '.', '<e>']
+[['<s>', 'zebras', 'and', 'rhinos', 'grazing', 'together', 'at', 'the', 'zoo', '.', '<e>'], ['<s>', 'rhinoceros', 'are', 'eating', 'hay', 'and', 'some', 'zebras', 'are', 'standing', 'behind', 'them', '.', '<e>'], ['<s>', 'a', 'herd', 'of', 'rhino', 'standing', 'next', 'to', 'a', 'herd', 'of', 'zebra', '.', '<e>'], ['<s>', 'zebras', 'and', 'rhinos', 'eating', 'some', 'died', 'up', 'grass', '.', '<e>'], ['<s>', 'two', 'zebras', 'and', 'threes', 'rhinos', 'eating', 'dried', 'grass', '.', '<e>']]
+0.341723340766
+8078.45788636
+COCO_val2014_000000393180.jpg
+['<s>', 'a', 'woman', 'is', 'standing', 'in', 'a', 'kitchen', 'with', 'a', 'microwave', '.', '<e>']
+[['<s>', 'a', 'person', 'sitting', 'on', 'the', 'ground', 'in', 'front', 'of', 'a', 'stove', '<e>'], ['<s>', 'a', 'guy', 'staring', 'into', 'an', 'oven', 'with', 'something', 'cooking', 'in', 'it', '.', '<e>'], ['<s>', 'a', 'person', 'sitting', 'in', 'front', 'of', 'a', 'white', 'stove', '.', '<e>'], ['<s>', 'a', 'man', 'watches', 'his', 'pizza', 'cook', 'inside', 'an', 'oven', '.', '<e>'], ['<s>', 'a', 'man', 'sits', 'in', 'front', 'of', 'his', 'oven', 'and', 'watches', 'what', 'is', 'cooking', 'in', 'there', '<e>']]
+8.44152793092e-155
+8078.45788636
+COCO_val2014_000000262113.jpg
+['<s>', 'a', 'close', 'up', 'of', 'a', 'fruit', 'display', 'with', 'oranges', '<e>']
+[['<s>', 'a', 'pile', 'of', 'blood', 'oranges', 'sitting', 'on', 'display', 'in', 'a', 'store', '.', '<e>'], ['<s>', 'fruit', 'market', 'display', 'of', 'oranges', 'with', 'one', 'cut', 'open', '.', '<e>'], ['<s>', 'a', 'piece', 'of', 'fruit', 'is', 'sliced', 'in', 'half', 'and', 'displayed', 'with', 'several', 'other', 'pieces', 'of', 'fruit', '.', '<e>'], ['<s>', 'a', 'blood', 'orange', 'cut', 'in', 'half', 'on', 'top', 'of', 'a', 'bunch', 'of', 'other', 'orangets', '<e>'], ['<s>', 'a', 'grapefruit', 'is', 'cut', 'open', 'and', 'placed', 'on', 'a', 'pile', '.', '<e>']]
+8.6628511896e-155
+8078.45788636
+COCO_val2014_000000524263.jpg
+['<s>', 'a', 'black', 'bear', 'sitting', 'on', 'a', 'stone', 'wall', 'next', 'to', 'a', 'pile', 'of', 'trash', '.', '<e>']
+[['<s>', 'a', 'couple', 'of', 'black', 'bears', 'are', 'in', 'the', 'grass', '<e>'], ['<s>', 'two', 'bears', 'on', 'a', 'field', 'with', 'a', 'stump', '<e>'], ['<s>', 'two', 'black', 'animals', 'tied', 'to', 'each', 'other', ',', 'one', 'standing', 'on', 'a', 'tree', 'stump', 'while', 'the', 'other', 'is', 'standing', 'in', 'the', 'grass', '.', '<e>'], ['<s>', 'two', 'cutouts', 'of', 'baby', 'black', 'bears', 'beside', 'a', 'lake', '.', '<e>'], ['<s>', 'two', 'bear', 'cubs', 'are', 'chained', 'to', 'each', 'other', 'outside', '.', '<e>']]
+8.59627505926e-155
+8078.45788636
+COCO_val2014_000000393203.jpg
+['<s>', 'a', 'herd', 'of', 'sheep', 'standing', 'on', 'a', 'lush', 'green', 'hillside', '.', '<e>']
+[['<s>', 'some', 'sheep', 'eating', 'grass', 'in', 'front', 'of', 'a', 'rock', '<e>'], ['<s>', 'a', 'group', 'of', 'animals', 'graze', 'on', 'some', 'grass', '<e>'], ['<s>', 'rams', 'graze', 'in', 'a', 'field', 'next', 'to', 'large', 'rocks', '<e>'], ['<s>', 'large', 'stones', 'dot', 'a', 'green', 'grassy', 'field', 'where', 'animals', 'graze', '.', '<e>'], ['<s>', 'cows', 'are', 'in', 'a', 'pasture', 'along', 'with', 'bails', 'of', 'hay', '.', '<e>']]
+8.44152793092e-155
+8078.45788636
+COCO_val2014_000000131063.jpg
+['<s>', 'a', 'bathroom', 'with', 'a', 'sink', ',', 'mirror', 'and', 'a', 'mirror', '.', '<e>']
+[['<s>', 'a', 'large', 'bathroom', 'features', 'tiled', 'walls', ',', 'two', 'mirrors', 'and', 'two', 'sinks', '.', '<e>'], ['<s>', 'a', 'bathroom', 'with', 'two', 'sinks', 'mirrors', 'and', 'some', 'bottles', '<e>'], ['<s>', 'a', 'couple', 'of', 'sinks', 'and', 'mirrors', 'in', 'a', 'room', '.', '<e>'], ['<s>', 'a', 'bathroom', 'vanity', 'with', 'double', 'sinks', 'and', 'double', 'mirrors', 'surrounded', 'by', 'tile', '.', '<e>'], ['<s>', 'a', 'bathroom', 'view', 'depicting', 'a', 'vanity', 'with', 'two', 'sinks', 'and', 'two', 'mirrors', '.', '<e>']]
+0.254509386002
+8078.71239575
+COCO_val2014_000000524280.jpg
+['<s>', 'a', 'cat', 'is', 'sitting', 'on', 'a', 'table', 'with', 'a', 'green', 'plant', '.', '<e>']
+[['<s>', 'a', 'cat', 'outside', 'looking', 'straight', 'ahead', 'with', 'a', 'tree', 'behind', 'it', '.', '<e>'], ['<s>', 'a', 'very', 'close', 'shot', 'of', 'a', 'cat', "'s", 'face', 'in', 'front', 'of', 'the', 'camera', '.', '<e>'], ['<s>', 'a', 'brown', 'cat', 'stares', 'at', 'something', 'in', 'the', 'field', '<e>'], ['<s>', 'a', 'tawny', 'cat', 'stares', 'wide-eyed', 'into', 'the', 'distance', '.', '<e>'], ['<s>', 'a', 'orange', 'cat', 'with', 'green', 'eyes', 'and', 'long', 'whiskers', '.', '<e>']]
+4.24923200522e-78
+8078.71239575
+COCO_val2014_000000524282.jpg
+['<s>', 'a', 'man', 'standing', 'on', 'a', 'tennis', 'court', 'holding', 'a', 'racquet', '.', '<e>']
+[['<s>', 'a', 'women', "'s", 'tennis', 'doubles', 'match', 'on', 'a', 'professional', 'court', '<e>'], ['<s>', 'there', 'are', 'two', 'woman', 'playing', 'a', 'game', 'of', 'tennis', '<e>'], ['<s>', 'two', 'girls', 'with', 'tennis', 'rackets', 'hunched', 'over', '.', '<e>'], ['<s>', 'two', 'women', 'in', 'white', 'shirts', 'and', 'black', 'shorts', 'are', 'playing', 'tennis', 'together', '.', '<e>'], ['<s>', 'tennis', 'match', 'with', 'players', 'ready', 'and', 'holding', 'rackets', '<e>']]
+9.62126124501e-155
+8078.71239575
+COCO_val2014_000000393212.jpg
+['<s>', 'a', 'street', 'sign', 'on', 'a', 'pole', 'on', 'a', 'street', '<e>']
+[['<s>', 'a', 'rustic', 'iron', 'fence', 'with', 'bushes', 'in', 'front', 'of', 'it', 'and', 'a', 'blue', 'information', 'sign', '.', '<e>'], ['<s>', 'a', 'blue', 'street', 'sign', 'sitting', 'under', 'a', 'camera', '.', '<e>'], ['<s>', 'a', 'sign', 'in', 'blue', 'showing', 'a', 'direction', 'besides', 'a', 'road', '<e>'], ['<s>', 'a', 'sign', 'in', 'front', 'of', 'a', 'fence', 'laced', 'with', 'shrubbery', '.', '<e>'], ['<s>', 'a', 'round', 'blue', 'street', 'sign', 'with', 'a', 'white', 'arrow', '.', '<e>']]
+8.90955582457e-155
+8078.71239575
+8078.71239575
+0.199454680914

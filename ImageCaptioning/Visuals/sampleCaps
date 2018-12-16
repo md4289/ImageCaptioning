@@ -1,0 +1,12 @@
+['<s>', 'the', 'hotdog', 'is', 'cooked', ',', 'toppings', 'have', 'been', 'added', ',', 'and', 'it', "'s", 'ready', 'to', 'be', 'eaten', '.', '<e>']
+(256, 256, 3)
+['<s>', 'a', 'cat', 'sleeping', 'on', 'top', 'of', 'a', 'tv', 'with', 'it', "'s", 'tale', 'and', 'leg', 'dangling', 'off', 'it', "'s", 'edge', '.', '<e>']
+(256, 256, 3)
+['<s>', 'a', 'dog', 'walking', 'down', 'the', 'stairs', 'and', 'another', 'dog', 'standing', 'at', 'the', 'bottom', 'of', 'the', 'stairs', 'looking', '.', '<e>']
+(256, 256, 3)
+['<s>', 'a', 'man', 'riding', 'a', 'horse', 'in', 'front', 'of', 'a', 'crowd', 'while', 'holding', 'a', 'gun', '.', '<e>']
+(256, 256, 3)
+['<s>', 'a', 'woman', 'standing', 'up', 'in', 'the', '<u>', 'of', 'a', 'decorated', 'horse', 'in', 'a', 'parade', '.', '<e>']
+(256, 256, 3)
+
+
